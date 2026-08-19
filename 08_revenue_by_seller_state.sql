@@ -8,9 +8,9 @@ order by SUM(price) DESC;
 
 -- The revenue concentrates towards the south and southeast region of the country with some exceptions BA,PE 
 -- North and Northeast states are found on the bottom of the list 
--- We can visualize that states with most revenue are the states that also recive the most orders, states with low revenue might 
--- be explained by higher shipping fees. If the company can attract more qualified local sellers on those areas
--- the customers would be less afected by the high shipping fees
+-- We can visualize that states with most revenue are the states that also receive the most orders, states with low revenue might 
+-- be explained by higher shipping fees. If the company can attract more qualified local sellers in those areas
+-- the customers would be less affected by the high shipping fees
 
 
 -- granularity 
